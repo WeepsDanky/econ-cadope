@@ -1,7 +1,4 @@
 # Econ-Cadope
-# 项目介绍
-
-[https://github.com/WeepsDanky/econ-cadope](https://github.com/WeepsDanky/econ-cadope)
 
 # Project.init() = Problems we solve
 
@@ -27,11 +24,11 @@ Suppose there is a hypothetical ‘powerful’ government, that is able to and w
 # We Are…
 
 <aside>
-💡 夜游船
+夜游船
 
 </aside>
 
 <aside>
-💡 Xiaoyi Sun,
+Xiaoyi Sun, a student at Imperial College London, studying Physics BSc. Interested in Web 3 applications and believe in the future of Web 3. 
 
 </aside>
