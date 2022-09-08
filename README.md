@@ -22,15 +22,18 @@ An identification code will be implanted on the good, associated with the good.
 Suppose there is a hypothetical ‘powerful’ government, that is able to and willing to legislate an act to enforce the implantation of the code onto every retail product. The people will be willing to purchase more good than they originally need to collect the scarce NFTs. As a result, the household consumption proportion in the GDP increases and hence the overall national income. The country will probably be able to boost consumption in the short term and live through the economic recession. 
 
 # We Are…
+We are university students who are interested in Web3 but vary in age and majors.  
 
-<aside>
+We are gathered by the common interest in Web3. 
+
+We are new to Web3 but eager to learn more. 
+
+We try to take part in this next grand banquet. 
+
+We believe in the future of Web3.
+
 🧑🏻‍💻 Qiyue Wu, team's technical support staff, keen to explore the wireless possibilities of blockchain technology.
-</aside>
-
-<aside>
+  
 💡 Xiaoyi Sun, a student at Imperial College London, studying Physics BSc. Interested in Web3 applications and believe in the future of Web3.
-</aside>
 
-<aside>
 💡 Xuheng Zhao, a physics undergraduate but interested in any frontier technologies such as Web3.
-</aside>
