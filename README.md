@@ -32,8 +32,8 @@ We try to take part in this next grand banquet.
 
 We believe in the future of Web3.
 
-🧑🏻‍💻 Qiyue Wu, team's technical support staff, keen to explore the wireless possibilities of blockchain technology.
+🧑🏻‍ Qiyue Wu, team's technical support staff, keen to explore the wireless possibilities of blockchain technology.
   
-💡 Xiaoyi Sun, a student at Imperial College London, studying Physics BSc. Interested in Web3 applications and believe in the future of Web3.
+🧑 Xiaoyi Sun, a student at Imperial College London, studying Physics BSc. Interested in Web3 applications and believe in the future of Web3.
 
-💡 Xuheng Zhao, a physics undergraduate but interested in any frontier technologies such as Web3.
+👧🏻Xuheng Zhao, a physics undergraduate but interested in any frontier technologies such as Web3.
