@@ -1,49 +1,56 @@
 {
-  "name": "10k-collection-video",
-  "version": "2.0.0",
-  "description": "How To Create An ENTIRE NFT Collection (10,000+) & MINT",
-  "main": "index.js",
-  "bin": "index.js",
-  "pkg": {
-    "assets": [
-      "layers/**/*",
-      "node_modules/**/*",
-      "src/**/*"
-    ]
+  "name": "connect-metamask-react-dapp",
+  "version": "0.1.0",
+  "author": "Jacob E. Dawson",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.14",
+    "@chakra-ui/react": "^1.6.5",
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@fontsource/inter": "^4.5.0",
+    "@metamask/jazzicon": "^2.0.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@usedapp/core": "^0.4.1",
+    "ethers": "^5.4.0",
+    "framer-motion": "^4.1.17",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2"
+  },
+  "resolutions": {
+    "@ethersproject/abi": "5.2.0",
+    "@ethersproject/contracts": "5.2.0"
   },
   "scripts": {
-    "build": "node index.js",
-    "generate": "node index.js",
-    "rarity": "node utils/rarity",
-    "rarity_md": "node utils/functions/getRarity_fromMetadata",
-    "rarity_rank": "node utils/functions/rarity_rank.js",
-    "preview": "node utils/preview.js",
-    "pixelate": "node utils/pixelate.js",
-    "update_info": "node utils/update_info.js",
-    "preview_gif": "node utils/preview_gif.js",
-    "create_generic": "node utils/nftport/genericMetas",
-    "upload_files": "node utils/nftport/uploadFiles",
-    "upload_metadata": "node utils/nftport/uploadMetas",
-    "deploy_contract": "node utils/nftport/deployContract",
-    "get_contract": "node utils/nftport/retrieveContract",
-    "mint": "node utils/nftport/mint %npm_config_start% %npm_config_end%",
-    "reveal": "node utils/nftport/revealNFTs %npm_config_start% %npm_config_end%",
-    "check_txns": "node utils/nftport/checkTxns %npm_config_dir%",
-    "refresh_os": "node utils/functions/refreshOpensea %npm_config_start% %npm_config_end%"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "author": "Jesse Hall (codeSTACKr)",
-  "license": "MIT",
-  "dependencies": {
-    "async-sema": "^3.1.1",
-    "canvas": "^2.8.0",
-    "form-data": "^4.0.0",
-    "gif-encoder-2": "^1.0.5",
-    "node-fetch": "^2.6.6",
-    "puppeteer": "^13.4.1",
-    "puppeteer-extra": "^3.2.3",
-    "puppeteer-extra-plugin-adblocker": "^2.12.0",
-    "puppeteer-extra-plugin-stealth": "^2.9.0",
-    "sha1": "^1.1.1",
-    "yesno": "^0.3.1"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
